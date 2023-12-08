@@ -4,9 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.mingbao.tool</groupId>
+    <groupId>io.github.maidoubaobao.easy.tool</groupId>
     <artifactId>easy-tool</artifactId>
     <version>1.0</version>
+    <description>便捷轻量的工具包</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
